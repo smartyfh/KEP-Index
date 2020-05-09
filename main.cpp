@@ -31,7 +31,7 @@ int main()
 {
     int k = 4;
     int r = 6;
-	int w = 0;
+    int w = 0;
     string model = "simple";
     string path = "datapath";
 
