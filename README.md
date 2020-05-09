@@ -1,6 +1,6 @@
 # KEP-Index
 ---
-Code for the paper ***Finding Weighted K-Truss Communities in Large Networks***
+Code for the paper ***Finding Weighted K-Truss Communities in Large Networks*** [Information Sciences]
 
 - Create a novel index structure to speed up the process of k-truss communities search in large networks
 
